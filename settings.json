@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "vanillaqweqwe",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "F1reworkSMP2013.aternos.me",
+    "port": 29573,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "vanillaqweqwe"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
